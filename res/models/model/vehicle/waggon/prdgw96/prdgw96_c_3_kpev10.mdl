@@ -585,7 +585,7 @@ return {
                 {
 					axles = { "vehicle/waggon/prdgw96/rad_lod0.msh", },
 					frontForwardParts = { },
-                    backForwardParts = { 11, 15, 27, 28, },
+                    backForwardParts = { 10, 15, 27, 28, },
                     frontBackwardParts = { },
                     backBackwardParts = { },
                     innerForwardParts = { 11, 12, },
